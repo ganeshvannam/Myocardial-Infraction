@@ -26,10 +26,12 @@ Despite heart disease prediction being a common theme in the data science world,
 - 🏆 The **Partial Least Squares Discriminant Analysis (PLS-DA)** model emerged as the best performer with the highest Kappa value (~3.8).
 
 ## 📂 Files Included:
-- **Dataset**: Contains predictors and target variables.
-- **Predictor Descriptions**: Detailed explanations of each feature.
+- **Myocardial_infarction_complications_Database**: Contains predictors and target variables.
+- **Descriptive statistics**: Detailed explanations of each feature.
 - **Final Report**: Comprehensive analysis of our approach and results.
-- **Presentation Slides**: Summary of the project for our class presentation. 🎤
+- **Linear_Models**: Contains R code for Linear Models.
+- **Non_linear_models**: Contains R code for Non Linear Models,
+- **Predictive_Modelling_PPT**: Summary of the project for our class presentation. 🎤
 
 ## 🤝 Collaboration:
 This project was a collaborative effort with my teammate **Nandhika Rajmanikandan**. Working together made the entire process enjoyable and insightful. 🙌
