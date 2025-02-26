@@ -3,7 +3,7 @@
 I worked on this project as part of my Predictive Modelling course final project. This course was a game-changer for me, offering deep insights into R and the mathematics behind predictive algorithms. 💡
 
 ## 🧠 Why This Project?
-The dataset we chose is open-source and available [here]([insert-dataset-link-here](https://archive.ics.uci.edu/dataset/579/myocardial+infarction+complications)).  
+The dataset we chose is open-source and available [here](https://archive.ics.uci.edu/dataset/579/myocardial+infarction+complications)  
 Despite heart disease prediction being a common theme in the data science world, this dataset presented its own complexities and challenges, making it an exciting learning experience. 🌟
 
 ## 📝 Project Workflow:
