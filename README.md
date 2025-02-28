@@ -23,7 +23,7 @@ Despite heart disease prediction being a common theme in the data science world,
 
 ### 4️⃣ Model Building:
 - Developed both linear and non-linear classification models.
-- The **Partial Least Squares Discriminant Analysis (PLS-DA)** model emerged as the best performer with the highest Kappa value (0.38).
+- The **Partial Least Squares Discriminant Analysis (PLS-DA)** model emerged as the best performer with the highest Kappa value.
 
 ## Files Included:
 - **Myocardial_infarction_complications_Database**: Contains predictors and target variables.
